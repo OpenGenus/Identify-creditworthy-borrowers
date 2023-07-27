@@ -1,4 +1,4 @@
-# Identify-creditworthy-borrowers
+# Identify creditworthy borrowers
 ![image](https://github.com/deshpanda/Identify-creditworthy-borrowers/assets/96617520/0aac8c3b-90b3-4cd8-9f70-691447e4e053)
 
 
